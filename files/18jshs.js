@@ -27,8 +27,7 @@ const {prop1_name: own_given_name, prop2_name: own_given_name,..} = obj_name
 
 ● If we put the URL to the API in search bar of browser, we will directly get the API response then we can copy it and paste it in JSON formatter.
 
-●   object		{2}
-    results		[1]
+● object		{2} results		[1]
 
 The above syntax indicates that object is an object with two elements inside it. results is an array with one element.
 
